@@ -1,6 +1,6 @@
 # React Native Camera & Media Library App
 
-แอปตัวอย่างสำหรับ **ถ่ายรูปด้วยกล้อง** และ **บันทึกรูปลง Media Library** บน React Native (Expo) รองรับการสลับกล้องหน้า-หลัง และแฟลช
+สำหรับ **ถ่ายรูปด้วยกล้อง** และ **บันทึกรูปลง Media Library** บน React Native (Expo) รองรับการสลับกล้องหน้า-หลัง และแฟลช
 
 ## Features
 
@@ -37,5 +37,6 @@ npx create-expo-app@latest camera-app --template blank-typescript
 npx expo start
 
 จากนั้นสแกนโค้ด QR ด้วย Expo Go
+
 
 
