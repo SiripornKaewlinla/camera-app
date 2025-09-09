@@ -25,7 +25,7 @@
 
 ---
 
-## วิะีสร้างโปรเจกต์
+## วิธีสร้างโปรเจกต์
 
 npx create-expo-app@latest camera-app --template blank-typescript
 
@@ -36,7 +36,8 @@ npx create-expo-app@latest camera-app --template blank-typescript
 ## เรียกใช้แอป
 npx expo start
 
-จากนั้นสแกนโค้ด QR ด้วย Expo Go
+**จากนั้นสแกนโค้ด QR ด้วย Expo Go**
+
 
 
 
