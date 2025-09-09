@@ -15,11 +15,11 @@
 
 ## ตัวอย่าง UI ที่ได้
 
-Camera preview และปุ่มควบคุม
+
 
 <p align="center">
-  <img src="assets/camera1.jpg" alt="Camera 1" width="300"/>
-  <img src="assets/camera2.jpg" alt="Camera 2" width="300"/>
+  <img src="assets/camera1.jpg" alt="Camera 1" width="200"/>
+  <img src="assets/camera2.jpg" alt="Camera 2" width="200"/>
 </p>
 
 
@@ -37,4 +37,5 @@ npx create-expo-app@latest camera-app --template blank-typescript
 npx expo start
 
 จากนั้นสแกนโค้ด QR ด้วย Expo Go
+
 
