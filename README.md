@@ -18,8 +18,11 @@
 
 Camera preview และปุ่มควบคุม
 
-![Camera 1](assets/camera1.jpg)  
-![Camera 2](assets/camera2.jpg)
+<p align="center">
+  <img src="assets/camera1.jpg" alt="Camera 1" width="300"/>
+  <img src="assets/camera2.jpg" alt="Camera 2" width="300"/>
+</p>
+
 
 ---
 
@@ -33,4 +36,5 @@ npx create-expo-app@latest camera-app --template blank-typescript
 
 ## เรียกใช้แอป
 npx expo start
+
 จากนั้นสแกนโค้ด QR ด้วย Expo Go
